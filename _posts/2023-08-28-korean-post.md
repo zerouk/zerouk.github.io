@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  한국어 포스트입니다.
-date:   2023-08-28 21:28:16
+title: 한국어 포스트입니다.
+date: 2023-08-28 21:28:16
 description: 한글 포스트 테스트
-tags: koreans
-categories: 한글
+tags: korean
+categories: korean
+giscus_comments: true
 ---
 한글로 만든 포스트 테스트
 
